@@ -1,0 +1,7 @@
+# Copyright (c) 2026 Daniel Wilk
+# SPDX-License-Identifier: Apache 2.0
+
+module(
+  name = "rules_sh",
+  version = "0.0.1"
+)
